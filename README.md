@@ -17,13 +17,13 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 > 📌 Screenshots are stored in the `/screenshots` folder.
 
 ### Home / Product Listing
-(![Home Page](Screenshots/homepg.png))
+(![Home Page](Screenshots/products.png))
 
 ### Filters & Search
-![Filters](screenshots/filters.png)
+![Filters](Screenshots/homepg.png)
 
 ### Cart & Checkout
-![Cart](screenshots/cart.png)
+![Cart](Screenshots/cart.png)
 
 ### Checkout Flow
 ![Checkout](screenshots/checkout.png)
