@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 > 📌 Screenshots are stored in the `/screenshots` folder.
 
 ### Home / Product Listing
-(![Home Page](Screenshots/pg.png))
+![Home Page](Screenshots/pg.png)
 
 ### Filters & Search
 ![Filters](Screenshots/homepg.png)
@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 ![Cart](Screenshots/cart1.png)
 
 ### Checkout Flow
-![Checkout](screenshots/chckout.png)
+![Checkout](Screenshots/chckout.png)
 
 ---
 
@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 - **Styling:** Tailwind CSS
 - **State Management:** React Hooks
 
-
+## Rough work at roughWork.jpeg
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
