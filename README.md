@@ -23,10 +23,10 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 ![Filters](Screenshots/homepg.png)
 
 ### Cart & Checkout
-![Cart](Screenshots/cart.png)
+![Cart](Screenshots/cart1.png)
 
 ### Checkout Flow
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/chckout.png)
 
 ---
 
