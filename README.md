@@ -7,7 +7,6 @@ The project demonstrates product listing, filtering, cart management, and a comp
 
 ## 🚀 Live Demo
 
-👉 **Deployed App:** _(add Vercel / Netlify link here once deployed)_  
 🎥 **Demo Video:**  
 https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 
@@ -18,7 +17,7 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 > 📌 Screenshots are stored in the `/screenshots` folder.
 
 ### Home / Product Listing
-![Home Page](Screenshot/ 2026-01-04 142212.png)
+(![Home Page](Screenshots/homepg.png))
 
 ### Filters & Search
 ![Filters](screenshots/filters.png)
