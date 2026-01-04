@@ -1,3 +1,59 @@
+# 🛒 Mini E-Commerce React App
+
+A fully functional **mini e-commerce web application** built with **React, TypeScript, Vite, and Tailwind CSS**.  
+The project demonstrates product listing, filtering, cart management, and a complete checkout flow with mock data.
+
+---
+
+## 🚀 Live Demo
+
+👉 **Deployed App:** _(add Vercel / Netlify link here once deployed)_  
+🎥 **Demo Video:**  
+https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
+
+---
+
+## 📸 Screenshots
+
+> 📌 Screenshots are stored in the `/screenshots` folder.
+
+### Home / Product Listing
+![Home Page](screenshots/home.png)
+
+### Filters & Search
+![Filters](screenshots/filters.png)
+
+### Cart & Checkout
+![Cart](screenshots/cart.png)
+
+### Checkout Flow
+![Checkout](screenshots/checkout.png)
+
+---
+
+## ✨ Features
+
+- 🛍️ Product listing with categories
+- 🔍 Search products by name
+- 🗂️ Filter by category
+- ↕️ Sort by price (Low → High, High → Low)
+- 🛒 Add / remove items from cart
+- 🔢 Quantity management with stock limits
+- ⚠️ Low stock & out-of-stock indicators
+- 💳 Multi-step checkout flow
+- 📱 Fully responsive UI
+- 🎨 Styled with Tailwind CSS
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend:** React + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
