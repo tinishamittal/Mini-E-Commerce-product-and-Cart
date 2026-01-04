@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1KjtusETH7pP2nGbK-un9mUFijk63ZF4R/view
 > 📌 Screenshots are stored in the `/screenshots` folder.
 
 ### Home / Product Listing
-(![Home Page](Screenshots/products.png))
+(![Home Page](Screenshots/pg.png))
 
 ### Filters & Search
 ![Filters](Screenshots/homepg.png)
